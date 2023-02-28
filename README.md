@@ -5,7 +5,7 @@ My own version of a digispark (TinyMight)
 ```
 master/           
 ├─ images/          all the images for the project
-├─ libraries/       a library with a compact library that contains all the projects
+├─ libraries/       a compact library that contains all the projects
 ├─ examples/        all the examples
 ```
 
