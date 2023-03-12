@@ -9,6 +9,10 @@ master/
 ├─ examples/        all the examples
 ```
 
+## Setup
+
+Best Guide to setup:
+https://startingelectronics.org/tutorials/arduino/digispark/digispark-windows-setup/
 
 ## Images
 
