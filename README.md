@@ -1,6 +1,9 @@
 # TinyMight
 My own version of a digispark (TinyMight)
 
+## What is that?
+Basically, it's a Microchip running firmware, presenting itself as a USB device capable of mimicking functions like a mouse, keyboard, or joystick. It serves practical purposes like auto-clicking or acting as a device that inputs text on your PC. It's a useful tool for various tasks, enabling you to explore and have some fun with its capabilities.
+
 ## Project structure:
 ```
 master/           
